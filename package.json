@@ -1,0 +1,15 @@
+{
+  "name": "MagicEden Sales & Listings",
+  "version": "1.0.0",
+  "description": "Capture Magic Eden Listings, Sales, Bids, and more as they happen!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Trattner / github.com/rtiscool",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.43.1",
+    "bs58": "^5.0.0"
+  }
+}
