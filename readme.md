@@ -45,7 +45,7 @@ Ive added a utility to get all of the nft mints from a certain candy machine (nf
 
 ```javascript
 var MESales = require("magicedensales");
-var mints = await MESales.getMintsFromCandyMachine("8RMqBV79p8sb51nMaKMWR94XKjUvD2kuUSAkpEJTmxyx")
+var mints = await MESales.getMintsFromCandyMachine("8RMqBV79p8sb51nMaKMWR94XKjUvD2kuUSAkpEJTmxyx", OPTIONAL-CUSTOM-RPC-URL)
 ```
 
 #### Finding the candy machine ID: 
