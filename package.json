@@ -1,5 +1,5 @@
 {
-  "name": "MagicEden Sales & Listings",
+  "name": "magicedensales",
   "version": "1.0.0",
   "description": "Capture Magic Eden Listings, Sales, Bids, and more as they happen!",
   "main": "index.js",
