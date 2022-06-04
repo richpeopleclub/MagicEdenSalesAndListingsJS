@@ -1,6 +1,6 @@
 {
   "name": "magicedensales",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Capture Magic Eden Listings, Sales, Bids, and more as they happen!",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@solana/web3.js": "^1.43.1",
-    "bs58": "^5.0.0"
+    "bs58": "^5.0.0",
+    "magicedensales": "^1.0.0"
   }
 }
